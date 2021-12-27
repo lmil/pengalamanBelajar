@@ -1,3 +1,4 @@
 ini tulisan hello untuk nambahin file saja
 Aman ga kalau di sini
 menambahkan 1 line di akhir
+dibenerin lagi udah bisa ternyata memang hasil fork. confirm
