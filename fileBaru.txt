@@ -2,3 +2,7 @@ line utama terdiri dari 3 baris:
 1. baris pertama
 2. baris ke dua
 3. baris ke tiga
+
+==========================
+commit 1
+==========================
