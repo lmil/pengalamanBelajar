@@ -2,3 +2,4 @@ initial
 ada penambahan om
 ada perubahan di main
 ini penambahan lain, harusnya setelah yang main selesai
+Perubahan dari lth
